@@ -4,6 +4,6 @@
 <p></p>
 
 <p>:books: Atualmente estudando JavaScript / HTML / CSS <p>
-  <p> :house_with_garden: Trabalhando de forma Home Office no desenvolvimento de aplicações de jogos </p>
+  <p> :house_with_garden: Trabalhando de forma Home Office no desenvolvimento de aplicações </p>
   <p>:e-mail: glemos.mattos@gmail.com </p>
   <p> :mag: www.linkedin.com/in/gabriellmattos </p>
